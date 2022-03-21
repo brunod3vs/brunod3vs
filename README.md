@@ -14,8 +14,7 @@
   
   
 - 👋 Hi, I’m @brunod3vs
-- 👀 I’m interested in Back-end Development.
-- 🌱 I’m currently learning Javascript, but I also love Ruby and Python. I am System Analysis and Development student...
+- 🌱 I’m currently learning Javascript,and I am a System Analysis and Development student 1/5...
 - 📫 How to reach me: brunod3vs@gmail.com or twitter: https://twitter.com/putsbrunu ...
   
   
