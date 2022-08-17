@@ -7,7 +7,7 @@
   
 - 👋 Hi, I’m @brunod3vs
 - 🌱 I’m currently studying System Analysis and Development and CyberSecurity...
-- 📫 How to reach me: brunod3vs@gmail.com or twitter: https://twitter.com/brunod3vs ...
+- 📫 How to reach me: brunod3vs@gmail.com
   
   
   <div> 
