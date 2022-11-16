@@ -6,7 +6,7 @@
   
   
 - 👋 Hi, I’m @brunod3vs
-- 🌱 I’m currently studying System Analysis and Development and CyberSecurity...
+- 🌱 I’m currently studying Information Security...
 - 📫 How to reach me: brunod3vs@gmail.com or visit https://brunod3vs.github.io/
   
   
