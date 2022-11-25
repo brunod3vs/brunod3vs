@@ -8,8 +8,10 @@
 - 👋 Hi, I’m @brunod3vs
 - 🌱 I’m currently studying Information Security...
 - 📫 How to reach me: brunod3vs@gmail.com or visit https://brunod3vs.github.io/
-    Sou estudante de Segurança da Informação pela FATEC de Americana, estou entrando no segundo semestre, sou apaixonado pelo tema e tenho buscado a aprender cada dia mais, participo de CTFs no tryhackme e também no HackTheBox, tenho conhecimento também na área de desenvolvimento, em HTML/CSS/BOOTSTRAP/BULMA, JS, PHP e Python.
+    - Sou estudante de Segurança da Informação pela FATEC de Americana, estou entrando no segundo semestre, sou apaixonado pelo tema e tenho buscado a aprender cada dia mais, participo de CTFs no tryhackme e também no HackTheBox, tenho conhecimento também na área de desenvolvimento, em HTML/CSS/BOOTSTRAP/BULMA, JS, PHP e Python.
     Sou técnico em eletrônica pelo POLITEC Americana e tenho curso livre de formação profissional também em Hardware/Redes.
+    
+    Falo Português (nativo), Espanhol (intermediário) e Ingles (Avançado)
   
   
   <div> 
