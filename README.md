@@ -7,14 +7,14 @@
   
 - 👋 Hi, I’m @brunod3vs
 - 📫 How to reach me: brunod3vs@gmail.com or visit https://brunod3vs.github.io/
-    - Sou estudante de Segurança da Informação pela FATEC de Americana, estou entrando no segundo semestre, sou apaixonado pelo tema e tenho buscado a aprender cada dia mais. Tenho conhecimento em HTML/CSS/BOOTSTRAP/, JS e React.
+    - Sou estudante de Segurança da Informação pela FATEC de Americana, estou no terceiro semestre, sou apaixonado por tecnologia e tenho buscado a aprender cada dia mais. Tenho conhecimento em HTML/CSS/BOOTSTRAP/, JS e React.
     Sou técnico em eletrônica pelo POLITEC Americana e tenho curso livre de formação profissional também em Hardware/Redes.
     
     Falo Português (nativo), Espanhol (intermediário) e Ingles (Avançado)
   
   
   <div> 
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="#" target="https://www.instagram.com/harukibruno"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:brunod3vs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/brunod3vs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
