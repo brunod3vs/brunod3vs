@@ -7,10 +7,12 @@
   
 - 👋 Hi, I’m @brunod3vs
 - 📫 How to reach me: bruno.bradley@proton.me or visit https://brunod3vs.github.io/
-    - Sou estudante de Segurança da Informação pela FATEC de Americana, estou no terceiro semestre, sou apaixonado por tecnologia e tenho buscado a aprender cada dia mais. Tenho conhecimento em HTML/CSS/BOOTSTRAP e estou atualmente estudando PHP.
-    Sou técnico em eletrônica pelo POLITEC Americana e tenho curso livre de formação profissional também em Hardware/Redes, realizei meu estágio da faculdade na UNICAMP em Campinas como suporte de TI.
+    - Sou estudante de Segurança da Informação pela FATEC de Americana, estou no quarto semestre, sou apaixonado por tecnologia e tenho buscado a aprender cada dia mais.
+    - Sou estagiário em uma empresa de Cybersecurity onde componho o time de CSIRT, auxilio no desenvolvimento de ferramentas, scripts e automatização de atividades, tenho conhecimento em redes, python, go, docker, html/css, possuo CCNA 1, Cybersecurity Essentials entre outras certificações, estou buscando tirar a certificação Ejpt.
+    - Antes dessa experiência estagiei também na UNICAMP de Campinas, trabalhando com o suporte de TI.
+    - Sou técnico em eletrônica pelo POLITEC Americana e tenho curso livre de formação profissional também em Hardware/Redes.
     
-    Falo Português (nativo), Espanhol (intermediário) e Ingles (Avançado)
+    Falo Português (nativo), Espanhol (intermediário) e Ingles (Avançado) e estou aprendendo Alemão.
   
   
   <div> 
