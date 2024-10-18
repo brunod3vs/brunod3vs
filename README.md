@@ -8,7 +8,7 @@
 - 👋 Hi, I’m @brunod3vs
 - 📫 How to reach me: bruno.bradley@proton.me or visit https://brunod3vs.github.io/
     - Sou estudante de Segurança da Informação pela FATEC de Americana, estou no quinto semestre, sou apaixonado por redes,segurança da informação e programação, tenho buscado a aprender cada dia mais.
-    - Sou estagiário em uma empresa de Cybersecurity onde participo de um projeto relacionado a CSIRT, onde tenho a oportunidade de desenvolver ferramentas e scripts em Python, realizar scanners e descobrir vulnerabilidades. Tenho conhecimento em redes, ansible, python,flask,JAVA, git, docker, zabbix, grafana, zendesk, blip.
+    - Sou estagiário em uma empresa de Cybersecurity onde participo de um projeto relacionado a CSIRT, onde tenho a oportunidade de desenvolver ferramentas e scripts em Python, realizar scanners e descobrir vulnerabilidades. Tenho conhecimento em redes, ansible, python,flask,wordpress, php, javascript, git, docker, zabbix, grafana, zendesk, blip.
     - Antes dessa experiência estagiei também na UNICAMP de Campinas, trabalhando como suporte de TI.
     - Sou técnico em eletrônica pelo POLITEC Americana e tenho curso livre de formação profissional também em Hardware/Redes.
     
